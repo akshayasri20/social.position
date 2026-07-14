@@ -1,1 +1,1 @@
-# solical.position
+# social.position
